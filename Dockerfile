@@ -2,8 +2,8 @@ FROM centos
 
 # Java Version and other ENV
 ENV JAVA_VERSION_MAJOR=8 \
-    JAVA_VERSION_MINOR=66 \
-    JAVA_VERSION_BUILD=17 \
+    JAVA_VERSION_MINOR=111 \
+    JAVA_VERSION_BUILD=14 \
     JAVA_PACKAGE=jdk \
     JAVA=/usr/java/default/bin/java \
     JAVA_HOME=/usr/java/default \
